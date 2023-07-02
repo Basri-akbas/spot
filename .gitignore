@@ -1,0 +1,53 @@
+# IntelliJ IDEA
+.idea/
+*.yml
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# IDE- und Texteditor-spezifische Dateien
+*.swp
+*~
+*.idea/
+*.DS_Store
+
+# Paket-Dateien
+*.jar
+*.war
+*.ear
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
